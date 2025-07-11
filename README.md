@@ -5,4 +5,5 @@ A fitness app is a mobile application designed to empower users on their health 
 
 Fitness app features can range from basic activity tracking to advanced functionalities like personalized workout plans, video demonstrations, and integration with wearable fitness trackers.
 
-<img width="1231" height="644" alt="Screenshot (9655)" src="https://github.com/user-attachments/assets/043b91fb-0afe-447d-9f0c-92df8da6f8a4" />
+
+<img width="1227" height="645" alt="Screenshot (9657)" src="https://github.com/user-attachments/assets/6167b6ad-5355-470e-b8c6-9b00e4ae9a3f" />
